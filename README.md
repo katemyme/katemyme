@@ -39,20 +39,8 @@ export default victor;
 
 ---
 
-## 🛠️ Stack
-
-<div align="center">
-
-| | |
-|:--|:--|
-| **Lenguajes** | ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F89820) ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E) ![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E) ![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688) |
-| **Bases de datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=databricks&logoColor=CC2927) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3FCF8E) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032) ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37) |
-
-</div>
-
+🛠️ Stack
+<div align="center"> <table> <tr> <td align="right"><b>💻&nbsp;Lenguajes</b></td> <td> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" /> <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> </td> </tr> <tr> <td align="right"><b>⚙️&nbsp;Backend</b></td> <td> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" /> <img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" /> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> </td> </tr> <tr> <td align="right"><b>🗄️&nbsp;Bases de datos</b></td> <td> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0NDMjkyNyI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgN3Y0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWN2MwIDEuNy0zLjYgMy04IDNTNCA4LjcgNCA3eiIvPjxwYXRoIGQ9Ik00IDEzdjRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3YtNGMwIDEuNy0zLjYgMy04IDNzLTgtMS4zLTgtM3oiLz48L3N2Zz4%3D" alt="SQL Server" /> <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" /> </td> </tr> <tr> <td align="right"><b>🎨&nbsp;Frontend</b></td> <td> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=BD34FE" alt="Vite" /> </td> </tr> <tr> <td align="right"><b>🎮&nbsp;Videojuegos</b></td> <td> <img src="https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=dotnet&logoColor=A179DC" alt="C#" /> </td> </tr> <tr> <td align="right"><b>🧰&nbsp;Herramientas</b></td> <td> <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> </td> </tr> </table> </div>
 ---
 
 ##  Proyectos destacados
