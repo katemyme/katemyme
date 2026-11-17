@@ -67,6 +67,21 @@ export default victor;
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🛰️ [NullRadt — Salud de astronautas en misiones espaciales](https://github.com/DTCarlox77/NullRadt)
+**NASA Space Apps Challenge 2026** · equipo **AndroMajes**. Monitoreo médico y psicológico *offline-first* para tripulaciones en misiones largas: la app evalúa signos vitales en el dispositivo, funciona sin señal y sincroniza con un panel en Tierra para cirujanos de vuelo y control de misión.
+
+**Mi parte → backend y base de datos:** API REST con motor de estado y triaje, emergencias con escalamiento, enlace Tierra con retardo y cortes simulados, control de acceso por rol para datos confidenciales, migraciones SQL y simulador de datos sintéticos.
+
+`Node.js` `Express` `PostgreSQL` `JWT` `OpenAPI / Swagger` `Docker` `React Native (Expo)` `React`
+
+<a href="https://astro-health-api-81jd.onrender.com/api/docs"><img src="https://img.shields.io/badge/API%20en%20vivo-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/NASA%20Space%20Apps-2026-0B3D91?style=flat-square&logo=nasa&logoColor=white" />
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💎 [Sistema Esmeralda](https://github.com/katemyme/Esmeralda)
@@ -121,7 +136,6 @@ Plataforma de gestión de aprendizaje con **base de datos relacional** (constrai
 
 ## 🛰️ En el radar
 
-- 🚀 **NASA Space Apps Challenge** — estructurando backend y base de datos para un software de monitoreo de salud de astronautas.
 - 🔐 Formándome en **ciberseguridad**: seguridad en APIs, autenticación y buenas prácticas.
 - 🗄️ Diseño de índices y optimización de consultas en PostgreSQL y SQL Server.
 
@@ -131,8 +145,11 @@ Plataforma de gestión de aprendizaje con **base de datos relacional** (constrai
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=katemyme&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katemyme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" />
 
 <img src="https://streak-stats.demolab.com?user=katemyme&theme=tokyonight&hide_border=true" />
 
