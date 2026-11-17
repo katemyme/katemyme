@@ -25,8 +25,7 @@ const victor = {
   rol:          "Backend developer — APIs REST & bases de datos",
 
   construyendo: [
-    "Sistema Esmeralda → POS, inventario y caja multi-sucursal",
-    "Humania          → videojuego educativo + panel docente",
+    "Sistema Esmeralda → POS, inventario y caja multi-sucursal"
   ],
 
   stackFavorito: ["TypeScript", "NestJS", "PostgreSQL", "React"],
