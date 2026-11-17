@@ -14,7 +14,7 @@
 
 ---
 
-##  `whoami`
+## `whoami`
 
 ```ts
 // victor.ts
@@ -25,7 +25,8 @@ const victor = {
   rol:          "Backend developer — APIs REST & bases de datos",
 
   construyendo: [
-    "Sistema Esmeralda → POS, inventario y caja multi-sucursal"
+    "Sistema Esmeralda → POS, inventario y caja multi-sucursal",
+    "Humania          → videojuego educativo + panel docente",
   ],
 
   stackFavorito: ["TypeScript", "NestJS", "PostgreSQL", "React"],
@@ -39,8 +40,12 @@ export default victor;
 
 ---
 
-🛠️ Stack
-<div align="center"> <table> <tr> <td align="right"><b>💻&nbsp;Lenguajes</b></td> <td> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" /> <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> </td> </tr> <tr> <td align="right"><b>⚙️&nbsp;Backend</b></td> <td> <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" /> <img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" /> <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> </td> </tr> <tr> <td align="right"><b>🗄️&nbsp;Bases de datos</b></td> <td> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0NDMjkyNyI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjgiIHJ5PSIzIi8%2BPHBhdGggZD0iTTQgN3Y0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTNWN2MwIDEuNy0zLjYgMy04IDNTNCA4LjcgNCA3eiIvPjxwYXRoIGQ9Ik00IDEzdjRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3YtNGMwIDEuNy0zLjYgMy04IDNzLTgtMS4zLTgtM3oiLz48L3N2Zz4%3D" alt="SQL Server" /> <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" /> </td> </tr> <tr> <td align="right"><b>🎨&nbsp;Frontend</b></td> <td> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=BD34FE" alt="Vite" /> </td> </tr> <tr> <td align="right"><b>🎮&nbsp;Videojuegos</b></td> <td> <img src="https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity" /> <img src="https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=dotnet&logoColor=A179DC" alt="C#" /> </td> </tr> <tr> <td align="right"><b>🧰&nbsp;Herramientas</b></td> <td> <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" /> </td> </tr> </table> </div>
+##  Stack
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="TypeScript, Java, Python, Node.js, NestJS, Express, FastAPI, PostgreSQL, SQL Server, Supabase, React, Vite, Unity, C#, Git, Postman" width="100%" />
+</p>
+
 ---
 
 ##  Proyectos destacados
@@ -49,7 +54,7 @@ export default victor;
 <tr>
 <td colspan="2" valign="top">
 
-###  [NullRadt — Salud de astronautas en misiones espaciales](https://github.com/DTCarlox77/NullRadt)
+### 🛰️ [NullRadt — Salud de astronautas en misiones espaciales](https://github.com/DTCarlox77/NullRadt)
 **NASA Space Apps Challenge 2026** · equipo **AndroMajes**. Monitoreo médico y psicológico *offline-first* para tripulaciones en misiones largas: la app evalúa signos vitales en el dispositivo, funciona sin señal y sincroniza con un panel en Tierra para cirujanos de vuelo y control de misión.
 
 **Mi parte → backend y base de datos:** API REST con motor de estado y triaje, emergencias con escalamiento, enlace Tierra con retardo y cortes simulados, control de acceso por rol para datos confidenciales, migraciones SQL y simulador de datos sintéticos.
@@ -72,7 +77,7 @@ Sistema de **inventario, punto de venta y caja** para un negocio real con dos su
 </td>
 <td width="50%" valign="top">
 
-###  [Humania](https://github.com/katemyme/Humania)
+### [Humania](https://github.com/katemyme/Humania)
 Videojuego educativo sobre **derechos y dignidad de la mujer** para secundaria, con un **panel web para docentes** que gestiona salas y estudiantes.
 
 `Unity` `React` `Vite` `Supabase` `Edge Functions`
@@ -116,7 +121,7 @@ Plataforma de gestión de aprendizaje con **base de datos relacional** (constrai
 
 ##  En el radar
 
-- Formándome en **ciberseguridad**: seguridad en APIs, autenticación y buenas prácticas.
+-  Formándome en **ciberseguridad**: seguridad en APIs, autenticación y buenas prácticas.
 -  Diseño de índices y optimización de consultas en PostgreSQL y SQL Server.
 
 ---
