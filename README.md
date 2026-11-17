@@ -1,112 +1,150 @@
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0ea5e9&height=200&section=header&text=Hola,%20soy%20V%C3%ADctor&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Bases%20de%20datos&descAlignY=58&descSize=18&animation=fadeIn" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+%7C+UAM;Backend+%26+Bases+de+Datos;Java+%C2%B7+Node.js+%C2%B7+SQL+Server+%C2%B7+PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Sistemas+de+la+Informaci%C3%B3n+%40+UAM;Construyo+APIs+con+NestJS%2C+Express+y+FastAPI;Modelo+datos+en+PostgreSQL+y+SQL+Server;Rumbo+a+la+ciberseguridad+%F0%9F%94%90" />
 </p>
 
 <p align="center">
-  <a href="mailto:victormateoalcocerlopez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C3%ADctor-mateo-mi-3ba248316">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:victormateoalcocerlopez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/v%C3%ADctor-mateo-mi-3ba248316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Managua,%20Nicaragua-0F172A?style=for-the-badge&logo=googlemaps&logoColor=0EA5E9" />
   <img src="https://komarev.com/ghpvc/?username=katemyme&style=for-the-badge&color=0ea5e9&label=VISITAS" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 `whoami`
 
-- 🎓 Estudiante de **Ingeniería en Sistemas de la Información** en la **Universidad Americana (UAM)**, Nicaragua.
-- 🗄️ Me enfoco en **backend y desarrollo de aplicaciones web**.
-- 🌐 Trabajo con **aplicaciones full-stack**: APIs REST con Node/Express y frontends con React.
-- 🕹️ Actualmente desarrollo **Humania**, un videojuego educativo con panel web para docentes.
-- 🧠 Me interesa la arquitectura de software, la calidad del código, automatizar lo repetitivo y la ciberseguridad.
+```ts
+// victor.ts
+const victor = {
+  ubicacion:    "Managua, Nicaragua 🇳🇮",
+  universidad:  "Universidad Americana (UAM)",
+  carrera:      "Ingeniería en Sistemas de la Información",
+  rol:          "Backend developer — APIs REST & bases de datos",
 
----
+  construyendo: [
+    "Sistema Esmeralda → POS, inventario y caja multi-sucursal",
+    "Humania          → videojuego educativo + panel docente",
+  ],
 
-## 🛠️ Tecnologías y herramientas
+  stackFavorito: ["TypeScript", "NestJS", "PostgreSQL", "React"],
+  aprendiendo:   ["Seguridad en APIs", "Optimización de consultas", "Ciberseguridad"],
 
-<details open>
-<summary><b>💻 Lenguajes</b></summary>
-<br>
+  filosofia: () => "Si lo hago dos veces, lo automatizo.",
+};
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Bases de datos</b></summary>
-<br>
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Frameworks y entornos</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧰 Herramientas</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</details>
+export default victor;
+```
 
 ---
 
-## 📊 Estadísticas
+## 🛠️ Stack
+
+<p align="center">
+  <b>Lenguajes</b><br><br>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cs,dart,html,css&perline=8" />
+</p>
+
+<p align="center">
+  <b>Backend & datos</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,hibernate,maven,postgres,supabase&perline=8" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kysely-0F172A?style=for-the-badge&logo=typescript&logoColor=0EA5E9" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Frontend, juegos y herramientas</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,unity,git,github,idea,vscode,postman&perline=10" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💎 [Sistema Esmeralda](https://github.com/katemyme/Esmeralda)
+Sistema de **inventario, punto de venta y caja** para un negocio real con dos sucursales y bodega central: sesiones por equipo, devoluciones, reportes, tareas programadas y etiquetas con QR.
+
+`NestJS` `TypeScript` `Kysely` `PostgreSQL 16` `React` `PWA` `Playwright`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Humania](https://github.com/katemyme/Humania)
+Videojuego educativo sobre **derechos y dignidad de la mujer** para secundaria, con un **panel web para docentes** que gestiona salas y estudiantes.
+
+`Unity` `React` `Vite` `Supabase` `Edge Functions`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 [Calculadora de Álgebra Lineal](https://github.com/katemyme/Calculadora-Algebra-Lineal)
+Resuelve **Ax = b** con Gauss-Jordan en aritmética exacta, muestra RREF, pivotes y solución paramétrica; incluye módulo de **métodos numéricos** (bisección, graficador, errores de punto flotante).
+
+`Python` `FastAPI` `NumPy` `SymPy` `React` `Tailwind` `pytest`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [Learning Management System](https://github.com/katemyme/Learning-Management-System)
+Plataforma de gestión de aprendizaje con **base de datos relacional** (constraints, vistas y triggers) y **API REST** por capas.
+
+`SQL Server` `Node.js` `Express` `Sequelize` `React` `Tailwind`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>☕ Más proyectos en Java</b></summary>
+<br>
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [ProyectoHibernateG3](https://github.com/katemyme/ProyectoHibernateG3) | Persistencia con ORM | Java · Hibernate · Maven |
+| [EjemploConcurrenciaG3](https://github.com/katemyme/EjemploConcurrenciaG3) | Manejo de concurrencia | Java |
+| [RepoPracticaSQLJavaFX](https://github.com/katemyme/RepoPracticaSQLJavaFX) | CRUD de escritorio con base de datos | JavaFX · SQL |
+| [Sistema_Bancario](https://github.com/katemyme/Sistema_Bancario) | Modelado POO de un banco | Java |
+
+</details>
+
+---
+
+## 🛰️ En el radar
+
+- 🚀 **NASA Space Apps Challenge** — estructurando backend y base de datos para un software de monitoreo de salud de astronautas.
+- 🔐 Formándome en **ciberseguridad**: seguridad en APIs, autenticación y buenas prácticas.
+- 🗄️ Diseño de índices y optimización de consultas en PostgreSQL y SQL Server.
+
+---
+
+## 📊 Actividad
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=katemyme&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katemyme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br>
-
 <img src="https://streak-stats.demolab.com?user=katemyme&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katemyme/katemyme/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katemyme/katemyme/output/github-snake.svg" />
+    <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/katemyme/katemyme/output/github-snake.svg" />
+  </picture>
+</p>
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **Humania** | Videojuego educativo sobre derechos y dignidad de la mujer, con panel web para docentes. | React · Supabase · Canvas |
-| **Sistema LMS** | Plataforma de gestión de aprendizaje: diseño de base de datos y API REST. | SQL Server · Node/Express · React |
-| **Calculadora de Álgebra Lineal** | Operaciones con matrices, sistemas de ecuaciones y vectores resueltos vía API REST. | Python · FastAPI · React |
-| **Sitio web personal** | Página web responsive construida completamente en React. | React |
-
----
-
-## 🌱 Aprendiendo ahora
-
-- Arquitectura de APIs REST y autenticación con JWT
-- Optimización de consultas y diseño de índices
-- Buenas prácticas de Git en trabajo en equipo
-- Entusiasta de la ciberseguridad
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0369a1,100:0f172a&height=120&section=footer" />
