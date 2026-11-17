@@ -39,26 +39,19 @@ export default victor;
 
 ---
 
-## Stack
+## 🛠️ Stack
 
-<p align="center">
-  <b>Lenguajes</b><br><br>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,cs,dart,html,css&perline=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Backend & datos</b><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,hibernate,maven,postgres,supabase&perline=8" />
-  <br>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kysely-0F172A?style=for-the-badge&logo=typescript&logoColor=0EA5E9" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-</p>
+| | |
+|:--|:--|
+| **Lenguajes** | ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F89820) ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E) ![NestJS](https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs&logoColor=E0234E) ![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688) |
+| **Bases de datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0F172A?style=for-the-badge&logo=databricks&logoColor=CC2927) ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3FCF8E) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED) ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37) |
 
-<p align="center">
-  <b>Frontend, juegos y herramientas</b><br><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,unity,git,github,idea,vscode,postman&perline=10" />
-</p>
+</div>
 
 ---
 
