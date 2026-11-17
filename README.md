@@ -14,7 +14,7 @@
 
 ---
 
-## `whoami`
+## 🧑‍💻 `whoami`
 
 ```ts
 // victor.ts
@@ -40,15 +40,15 @@ export default victor;
 
 ---
 
-##  Stack
+## 🛠️ Stack
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="TypeScript, Java, Python, Node.js, NestJS, Express, FastAPI, PostgreSQL, SQL Server, Supabase, React, Vite, Unity, C#, Git, Postman" width="100%" />
+  <img src="./stack.svg" alt="TypeScript, Java, Python, Node.js, NestJS, Express, FastAPI, PostgreSQL, SQL Server, Supabase, React, Vite, Unity, C#, Git, Postman" width="100%" />
 </p>
 
 ---
 
-##  Proyectos destacados
+## 🚀 Proyectos destacados
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ export default victor;
 <tr>
 <td width="50%" valign="top">
 
-###  [Sistema Esmeralda](https://github.com/katemyme/Esmeralda)
+### 💎 [Sistema Esmeralda](https://github.com/katemyme/Esmeralda)
 Sistema de **inventario, punto de venta y caja** para un negocio real con dos sucursales y bodega central: sesiones por equipo, devoluciones, reportes, tareas programadas y etiquetas con QR.
 
 `NestJS` `TypeScript` `Kysely` `PostgreSQL 16` `React` `PWA` `Playwright`
@@ -77,7 +77,7 @@ Sistema de **inventario, punto de venta y caja** para un negocio real con dos su
 </td>
 <td width="50%" valign="top">
 
-### [Humania](https://github.com/katemyme/Humania)
+### 🎮 [Humania](https://github.com/katemyme/Humania)
 Videojuego educativo sobre **derechos y dignidad de la mujer** para secundaria, con un **panel web para docentes** que gestiona salas y estudiantes.
 
 `Unity` `React` `Vite` `Supabase` `Edge Functions`
@@ -87,7 +87,7 @@ Videojuego educativo sobre **derechos y dignidad de la mujer** para secundaria, 
 <tr>
 <td width="50%" valign="top">
 
-###  [Calculadora de Álgebra Lineal](https://github.com/katemyme/Calculadora-Algebra-Lineal)
+### 🧮 [Calculadora de Álgebra Lineal](https://github.com/katemyme/Calculadora-Algebra-Lineal)
 Resuelve **Ax = b** con Gauss-Jordan en aritmética exacta, muestra RREF, pivotes y solución paramétrica; incluye módulo de **métodos numéricos** (bisección, graficador, errores de punto flotante).
 
 `Python` `FastAPI` `NumPy` `SymPy` `React` `Tailwind` `pytest`
@@ -95,7 +95,7 @@ Resuelve **Ax = b** con Gauss-Jordan en aritmética exacta, muestra RREF, pivote
 </td>
 <td width="50%" valign="top">
 
-###  [Learning Management System](https://github.com/katemyme/Learning-Management-System)
+### 📚 [Learning Management System](https://github.com/katemyme/Learning-Management-System)
 Plataforma de gestión de aprendizaje con **base de datos relacional** (constraints, vistas y triggers) y **API REST** por capas.
 
 `SQL Server` `Node.js` `Express` `Sequelize` `React` `Tailwind`
@@ -119,14 +119,14 @@ Plataforma de gestión de aprendizaje con **base de datos relacional** (constrai
 
 ---
 
-##  En el radar
+## 🛰️ En el radar
 
--  Formándome en **ciberseguridad**: seguridad en APIs, autenticación y buenas prácticas.
--  Diseño de índices y optimización de consultas en PostgreSQL y SQL Server.
+- 🔐 Formándome en **ciberseguridad**: seguridad en APIs, autenticación y buenas prácticas.
+- 🗄️ Diseño de índices y optimización de consultas en PostgreSQL y SQL Server.
 
 ---
 
-##  Actividad
+## 📊 Actividad
 
 <div align="center">
 
